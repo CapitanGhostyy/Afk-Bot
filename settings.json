@@ -8,7 +8,7 @@
   "server": {
     "ip": "Afteraftermath.aternos.me",
     "port": 32257,
-    "version": "1.21.10",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "disabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
@@ -42,7 +42,7 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "disabled": true,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
